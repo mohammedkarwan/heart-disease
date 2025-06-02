@@ -81,7 +81,7 @@ Key features contributing to prediction include **age**, **cholesterol**, and **
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Eng-yousef-khalaf/heart-disease-prediction-project.git
+   https://github.com/mohammedkarwan/heart-disease-prediction-project
 2. **Navigate to the project directory and open the Jupyter Noteboo:**
    ```bash
    cd heart-disease-prediction
